@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1705523228 source:c:\users\dinof\desktop\matrica projekat\matrica\main.cpp
+	<iostream>
+	"matrica.h"
+
+1705523960 c:\users\dinof\desktop\matrica projekat\matrica\matrica.h
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<vector>
+	<string>
+	<stack>
+	<stdexcept>
+
+1705524526 source:c:\users\dinof\desktop\matrica projekat\matrica\matrica.cpp
+	"matrica.h"
+
+1705562877 source:c:\users\dinof\desktop\druga godina\iii semestar\strukture\matrica projekat\matrica\main.cpp
+	<iostream>
+	"matrica.h"
+
+1705523960 c:\users\dinof\desktop\druga godina\iii semestar\strukture\matrica projekat\matrica\matrica.h
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<vector>
+	<string>
+	<stack>
+	<stdexcept>
+
+1705563214 source:c:\users\dinof\desktop\druga godina\iii semestar\strukture\matrica projekat\matrica\matrica.cpp
+	"matrica.h"
+
